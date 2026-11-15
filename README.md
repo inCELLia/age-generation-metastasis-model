@@ -29,9 +29,25 @@ All model constants and numerical settings are defined at the beginning of `MAIN
 
 Recursive distributions: Eqs. (13), (19), (20). Counts and mean size: Eqs. (34)–(37). IKS: Appendix C, Algorithm (1)–(6), using Eq. (C.4) for propagation. Refer to the paper for the mathematical formulation and assumptions.
 
+
 ## Citation
 
-If you use this software in academic work, please cite the publication above.
+If you use this software, please cite the associated research article:
+
+Gavriliadis, P., Lolas, G., & Matsoukas, T. (2026).
+Age and generation-based model of metastatic cancer:
+From micrometastases to macrometastases.
+*Journal of Theoretical Biology, 623*, 112392.
+https://doi.org/10.1016/j.jtbi.2026.112392
+
+### Software archive (Zenodo)
+
+**Version v1.0.1 (reproducible release):**
+https://doi.org/10.5281/zenodo.24251492
+
+**All versions (Concept DOI):**
+https://doi.org/10.5281/zenodo.24251491
+
 
 ## License
 
