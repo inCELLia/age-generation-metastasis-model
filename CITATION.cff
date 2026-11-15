@@ -1,0 +1,14 @@
+
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated research article."
+type: software
+title: "Age- and Generation-Based Metastatic Cancer Model"
+authors:
+  - family-names: Gavriliadis
+    given-names: Panagiotis
+  - family-names: Lolas
+    given-names: Georgios
+  - family-names: Matsoukas
+    given-names: Themis
+license: GPL-3.0-or-later
+repository-code: "https://github.com/inCELLia/age-generation-metastasis-model"
